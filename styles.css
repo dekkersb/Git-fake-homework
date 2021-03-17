@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+}
+
+div {
+    display: inline-block;
+    color: yellow;
+    transition: color 3s ease-in-out 0s ;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+h2 {
+    color: purple;
+}
+
+button {
+    color: white;
+    background-color: blue;
+}
+
+button:hover{
+    color: blue;
+    background-color: white;
+    transition: all 2s ease 0s;
+}
+
+#para1 {
+    color: purple;
+}
+
+#para2 {
+    color: orange;
+}
+
+label {
+    color: firebrick;
+}
+
+footer:hover {
+    color: darkviolet;
+    transition: color 2s ease-in-out 0s;
+}
